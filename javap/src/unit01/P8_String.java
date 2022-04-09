@@ -76,5 +76,3 @@ class QuestionsOnString {
 			System.out.println("Strings are not equal");
 	}
 }
-© 2022 GitHub, Inc.
-Terms
