@@ -10,12 +10,12 @@ public class Q9 {
 
 }
 
-class A {
-    private int x = 10;
+class Super{
+     int x = 10;
     public int y = 11;
     protected int z = 12;
 }
 
-class B extends A {
+class B extends Super {
 
 }
